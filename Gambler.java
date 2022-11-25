@@ -6,8 +6,9 @@ public class Gambler {
 
 		int stakeAmount = 100;
 		int betAmount = 1;
+		
 		System.out.println("Gambler stake amount : "+stakeAmount+"$");
-		System.out.println("Gambler betting for each game : "+betAmount+"$");
+		System.out.println("Gambler bets for each game : "+betAmount+"$");
 		
 	}
 }
